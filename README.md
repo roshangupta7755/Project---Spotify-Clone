@@ -10,7 +10,7 @@ A **Spotify-inspired music streaming web application** built using **HTML, CSS, 
   
 This project focuses on creating an interactive user interface, handling audio playback, and implementing real-world frontend concepts.
 
----    
+---      
 
 ## 🚀 Live Demo
 🔗 **Live Project:**  
